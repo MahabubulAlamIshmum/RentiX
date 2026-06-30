@@ -1,4 +1,4 @@
-# 🚀 RentiX – Peer-to-Peer Borrowing & Lending Platform
+# 🚀 RentiX – Peer-to-Peer Rental Ecosystem
 
 ## 📌 Overview
 
