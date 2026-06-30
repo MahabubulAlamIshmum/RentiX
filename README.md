@@ -2,9 +2,9 @@
 
 ## 📌 Overview
 
-RentiX is a web-based **peer-to-peer (P2P) rental platform** that allows users to **rent, lend, and share** everyday items such as tools, electronics, and appliances within a **trusted community**.
+**RentiX** is a web-based **peer-to-peer (P2P) rental platform** that allows users to **rent, lend, and share** everyday items such as tools, electronics, and appliances within a **trusted community**.
 
-It helps users save money, earn from unused products, and promotes **efficient resource utilization** as well as **sustainability** by reducing the need to purchase rarely-used items.
+It helps users **save money**, **earn from unused products**, and promotes **efficient resource utilization** as well as **sustainability** by reducing the need to purchase rarely-used items.
 
 The platform focuses on solving major challenges like **trust, security, and damage control**.
 
@@ -20,7 +20,7 @@ Existing platforms often lack:
 * Fraud prevention mechanisms
 * Damage control solutions
 
-RentiX aims to create a secure and reliable ecosystem for peer-to-peer sharing.
+**RentiX** aims to create a **secure and reliable ecosystem** for peer-to-peer sharing.
 
 ---
 
@@ -37,35 +37,47 @@ RentiX aims to create a secure and reliable ecosystem for peer-to-peer sharing.
 
 ### 🔒 Security & Trust Features
 
-* 🔒 **Multi-Layer User Verification**
-  Users must verify identity using NID, phone number, address, and student/job ID.
+## 🔑 Features
 
-* 💰 **Escrow-Based Smart Payment**
-  Payments are held securely and released after successful return.
+RentiX is designed to make borrowing and lending **secure, simple, and reliable**. The platform combines trust, payment safety, and damage control features.
 
-* 📊 **Tier-Based Security Deposit**
+### 🔒 Multi-Layer User Verification
+Users must verify identity using NID, phone number, address, and student/job ID. This reduces fake users and builds trust.
 
-  * 0–5k BDT: 10% deposit
-  * 6k–20k BDT: 50% deposit
-  * 21k+ BDT: Full deposit
+### 💰 Escrow-Based Smart Payment
+Borrower pays rent + deposit to the platform.  
+Funds are held securely and released only after successful return.
 
-* 📸 **AI-Assisted Damage Detection**
-  Image comparison before and after rental to detect damage.
+### 📊 Tier-Based Security Deposit
+- **0–5k BDT:** 10% deposit  
+- **6k–20k BDT:** 50% deposit  
+- **21k+ BDT:** Full deposit  
 
-* ⭐ **Rating & Trust Score System**
-  Builds user credibility and trust.
+All deposits are refundable if no damage occurs.
 
-* 🤝 **Owner Approval System**
-  Owners can accept or reject requests.
+### 📸 AI-Assisted Damage Detection
+- Owner uploads item images before lending  
+- Borrower uploads images at return  
+- System compares and flags possible damage  
 
-* ⚖️ **Dispute Resolution System**
-  Admin-based conflict resolution.
+### ⭐ Rating & Trust Score System
+Users are rated after each transaction.  
+A trust score is generated to identify reliable users.
 
-* 📍 **Location-Based Search**
-  Find items near your location.
+### 🤝 Owner Approval System
+Owners can approve or reject borrowing requests, ensuring full control.
 
-* 🧾 **Transaction Records**
-  Full transparency of all activities.
+### ⚖️ Dispute Resolution System
+Admins review disputes using images and transaction data to ensure fairness.
+
+### 📍 Location-Based Search
+Users can find items near their location for faster and easier transactions.
+
+### 💬 In-App Chat System
+Direct communication between borrower and lender reduces misunderstanding.
+
+### 🧾 Transaction Records
+All transactions, payments, and image proofs are stored for transparency and security.
 
 ---
 
@@ -149,31 +161,9 @@ rentix/
 
 ---
 
-## ⚙️ Installation & Setup
+## 📸 Preview
 
-1. Clone the repository:
-
-```
-git clone https://github.com/your-username/rentix.git
-```
-
-2. Navigate to the project folder:
-
-```
-cd rentix
-```
-
-3. Install dependencies:
-
-```
-npm install
-```
-
-4. Run the project:
-
-```
-npm start
-```
+*(Add screenshots of your project UI here)*
 
 ---
 
@@ -187,44 +177,33 @@ npm start
 
 ### Future Scope
 
-* Mobile app (Android/iOS)
-* Advanced AI damage detection
-* Smart recommendation system
-* Improved search & filtering
+- Mobile app (Android/iOS)  
+- Advanced AI damage detection  
+- Insurance integration  
+- Smart recommendation system 
 
 ---
 
 ## 👥 Team Members
 
-* Your Name
-* Your Friend's Name
-
----
-
-## 📸 Preview
-
-*(Add screenshots of your project UI here)*
+* Mahabubul Alam
+* Adit Ishmam
 
 ---
 
 ## 🤝 Contribution
-
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
 ---
 
 ## 📄 License
-
 This project is for academic and educational purposes.
 
 ---
 
-## 📬 Contact
+<div align="center">
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* GitHub: https://github.com/your-username
-
----
-
-⭐ **If you like this project, don't forget to give it a star!**
+⭐ **If you like this project, don't forget to give it a star!**  
 🔗 [**Try the Live Project**]
+
+</div>
