@@ -72,10 +72,17 @@ RentiX aims to create a secure and reliable ecosystem for peer-to-peer sharing.
 ## 📊 Benchmark Analysis
 
 ### 🔍 Competitors
+- [DharNow](https://www.dharnow.com/)
+- [Peerby](https://www.peerby.com/en-nl)
+- [Library of Things](https://www.libraryofthings.co.uk/)
 
-* DharNow
-* Peerby
-* Library of Things
+---
+## 📊 Benchmark Analysis
+
+### 🔍 Comparison Chart
+
+![Benchmark Analysis](Resources/benchmark.png)
+
 
 ### 🚀 RentiX Advantages
 
