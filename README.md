@@ -201,7 +201,7 @@ npm start
 
 ---
 
-## 📸 Screenshots
+## 📸 Preview
 
 *(Add screenshots of your project UI here)*
 
@@ -226,4 +226,5 @@ This project is for academic and educational purposes.
 
 ---
 
-⭐ *If you like this project, don't forget to give it a star!*
+⭐ **If you like this project, don't forget to give it a star!**
+🔗 [**Try the Live Project**]
